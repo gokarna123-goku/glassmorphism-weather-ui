@@ -65,6 +65,7 @@
   align-items: center;
   justify-content: center;
   gap: 8px;
+  cursor: pointer;
 }
 .search_box button:hover {
   background: #1d1d1d/80;
